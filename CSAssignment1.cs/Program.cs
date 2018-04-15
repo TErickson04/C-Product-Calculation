@@ -1,10 +1,4 @@
-﻿//******************************************************
-//* File Name       = CSAssignment1.cs                 *
-//* Name            = Rob Walczak                      *
-//* Date            = 08/28/2017                       *
-//* Course          = CWEB2010 Advanced Prog           *
-//* Assignmnet name = C# Chapters 1-2 Assignment       *
-//******************************************************
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
